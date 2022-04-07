@@ -13,7 +13,7 @@ Criar um sistema web com <code>JavaScript</code> para gerenciamento de informaç
 
 ## 📋 Sobre o sistema
 Esse sistema é uma adaptação ao projeto da <a href="https://github.com/josuelustosadev/projeto-semana-1-eldorado">
-Semana 1 do Eldorado Tech Training 2022</a>, no qual consistia em prototipar as telas de um formulário com login e senha, com um botão para redirecionar para uma página de dashboard utilizando HTML, CSS e Boostrap (v. 4).
+Semana 1 do Eldorado Tech Training 2022</a>, no qual consistia em prototipar as telas de um formulário com login e senha, com um botão para redirecionar para uma página de dashboard utilizando HTML, CSS e Boostrap (v. 4). Sendo assim, o sistema será capaz, por meio do <code>JavaScript</code>, trazer as funcionalidades citadas em <a href="https://github.com/josuelustosadev/projeto-semana-2-eldorado#%EF%B8%8F-objetivo-do-projeto">✔️ Objetivo do projeto</a>.
 
 ## 🧰 Ferramenta utilizadas
  * <a href="https://getbootstrap.com/docs/5.1/">Bootstrap (v. 5.1)</a> 
